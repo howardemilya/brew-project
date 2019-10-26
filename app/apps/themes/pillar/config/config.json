@@ -1,0 +1,14 @@
+{
+  "name" : "Pillar",
+  "description" : "",
+  "thumb" : "images/image.png",
+  "helpers": [
+    "Themes::Pillar::MainHelper"
+  ],
+  "hooks": {
+    "on_active": ["pillar_on_install_theme"],
+    "on_inactive": ["pillar_on_uninstall_theme"],
+    "on_theme_settings": ["pillar_settings"]
+    //here all your hooks
+  }
+}

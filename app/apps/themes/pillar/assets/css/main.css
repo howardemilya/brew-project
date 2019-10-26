@@ -1,0 +1,45 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+ *= require camaleon_cms/bootstrap.min
+ *= require font-awesome
+ *= require ./blue
+ *= require ./bootstrap
+ *= require ./brightgreen
+ *= require ./custom
+ *= require ./darkorange
+ *= require ./darkred
+ *= require ./deepred
+ *= require ./font-karlaopensans
+ *= require ./font-mulilato
+ *= require ./font-poppinssourcesanspro
+ *= require ./font-robotoslabroboto
+ *= require ./green
+ *= require ./iconsmind
+ *= require ./interface-icons
+ *= require ./lightbox.min
+ *= require ./mediumblue
+ *= require ./olivegreen
+ *= require ./owl.carousel
+ *= require ./pink
+ *= require ./purple
+ *= require ./socicon
+ *= require ./theme-blue
+ *= require ./theme-brightgreen
+ *= require ./theme-darkorange
+ *= require ./theme-darkred
+ *= require ./theme-deepred
+ *= require ./theme-green
+ *= require ./theme-mediumblue
+ *= require ./theme-olivegreen
+ *= require ./theme-pink
+ *= require ./theme-purple
+ *= require ./theme
+ */
